@@ -1,6 +1,6 @@
-# RMU Part-Time Job Management - Backend API
+# Elysia Backend API
 
-Backend API สำหรับระบบจัดการงานพาร์ทไทม์ มหาวิทยาลัยราชภัฏมหาสารคาม
+Backend API 
 
 ## ✨ Features
 
